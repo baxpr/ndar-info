@@ -1,7 +1,9 @@
+# NDAR Data Structures
 
-## Data dictionary
+## Image
 
-`image03_definitions.csv`
+Overview: https://nda.nih.gov/data-structure/image03
 
-Source: https://nda.nih.gov/api/datadictionary/v2/datastructure/image03/csv
+Data dictionary: `image03_definitions.csv` 
+(https://nda.nih.gov/api/datadictionary/v2/datastructure/image03/csv)
 
